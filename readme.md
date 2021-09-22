@@ -5,6 +5,13 @@ Preparatory Materials for the Microsoft University Workshop Series, Workshop #2 
 ## Instructions to facilitate workshop
 
 
+| **Resource** | **Purpose** |
+| ------------- | ------------- |
+| Workshop Data and Packages | Data folder containing solution packages, train/test data and instruction set to facilitate the workshop |
+| Power Platform and AI Builder - Step by step Tutorial | Step-by-step guided tutorial on completing the hands-on workshop |
+| Presentation Deck| Presentation material presented during the Microsoft University Workshop Series Live Session |
+
+
 ## Presenter
 * Glendon Thaiw, Microsoft ([GitHub](https://github.com/glendont) | [LinkedIn](https://www.linkedin.com/in/glendonthaiw/))
 
