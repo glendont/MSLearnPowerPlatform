@@ -17,4 +17,4 @@ Preparatory Materials for the Microsoft University Workshop Series, Workshop #2 
 ## Resources
 * [Microsoft Power Platform Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
 * [AI Builder in a Day](https://docs.microsoft.com/en-us/ai-builder/learn-ai-builder)
-* [Session Recording (To be Uploaded)]()
+* [Session Recording](https://drive.google.com/file/d/1vfp23AUl6WdCh1atUKW5c1W9SkOGmB52/view?usp=sharing)
