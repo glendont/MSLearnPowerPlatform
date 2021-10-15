@@ -2,6 +2,8 @@
 ## Power Platform and AI Builder 
 Preparatory Materials for the Microsoft University Workshop Series, Workshop #2 - Power Platform and AI Builder
 
+![](display.jpg)
+
 ## Repository Materials
 
 | **Resource** | **Purpose** |
